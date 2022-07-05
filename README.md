@@ -1,1 +1,1 @@
-### Ola, sou Bruno Gonçalves 👋
+### Olá, sou Bruno Gonçalves 👋
