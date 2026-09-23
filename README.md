@@ -44,5 +44,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em desenvolvi
 ### 📬 Vamos nos conectar?
 
 
-- **LinkedIn:** *[www.linkedin.com/in/devbrunogonçalves]*
-- **E-mail:** *[brunogonsantos@hotmail.com]*
+- **LinkedIn:** [://linkedin.com](www.linkedin.com/in/devbrunogonçalves)
+- **E-mail:** [brunogonsantos@hotmail.com](mailto:brunogonsantos@hotmail.com)
