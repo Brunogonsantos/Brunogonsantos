@@ -6,19 +6,42 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em desenvolvi
 
 ### 🎓 Formação e Estudos
 
-* **Uninter:** `Análise e Desenvolvimento de Sistemas` (Em andamento)
-* **Udemy:** `Programação Orientada a Objetos em C#` (Concluído)
-* **Udemy:** `Desenvolvimento Avançado em Python` (Concluído)
-* **Autodidata:** `Banco de Dados & Estruturas SQL` (Constante evolução)
+* 🏛️ **Uninter** — `Análise e Desenvolvimento de Sistemas` — _Em andamento_
+* 🎓 **Udemy** — `Programação Orientada a Objetos em C#` — _Concluído_
+* 🎓 **Udemy** — `Desenvolvimento Avançado em Python` — _Concluído_
+* 📖 **Autodidata** — `Banco de Dados & Estruturas SQL` — _Constante evolução_
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens de Programação:** `C# (.NET)` • `Python`
-* **Bancos de Dados:** `SQL Server` • `PostgreSQL` • `MySQL`
-* **Conceitos & Arquitetura:** `Microserviços` • `POO (Orientação a Objetos)` • `APIs REST`
-* **Ferramentas de Controle:** `Git` • `GitHub`
+**Linguagens de Programação**
+![C#](https://shields.io)
+![Python](https://shields.io)
+
+**Bancos de Dados**
+![MicrosoftSQLServer](https://shields.io)
+![Postgres](https://shields.io)
+![MySQL](https://shields.io)
+
+**Conceitos & Arquitetura**
+![Microservices](https://shields.io)
+![POO](https://shields.io)
+![REST API](https://shields.io)
+
+**Ferramentas de Controle**
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+<!-- Altere o valor de username= para o seu usuário exato do GitHub se necessário -->
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de Bruno" height="150" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
@@ -26,14 +49,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em desenvolvi
 
 * **[ecommerce-microservices](https://github.com)**
   * *Descrição:* Ecossistema completo de e-commerce desenvolvido em C#, aplicando conceitos modernos de arquitetura de microserviços e comunicação assíncrona.
-  * *Tecnologias:* C#, .NET, SQL Server.
+  * *Tecnologias:* `C#` `.NET` `SQL Server` `Microserviços`
 * **[CursoPython](https://github.com)**
   * *Descrição:* Repositório dedicado à consolidação de conceitos avançados em Python, focado em lógica estruturada, algoritmos e automações.
-  * *Tecnologias:* Python.
+  * *Tecnologias:* `Python`
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-* 👔 **LinkedIn:** [in/devbrunogonçalves](https://linkedin.com)
-* ✉️ **E-mail:** [brunogonsantos@hotmail.com](mailto:brunogonsantos@hotmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:brunogonsantos@hotmail.com)
