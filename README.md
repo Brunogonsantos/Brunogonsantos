@@ -19,32 +19,26 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em desenvolvi
 
 | Categoria | Tecnologias Utilizadas |
 | :--- | :--- |
-| **Linguagens de Programação** | C# (.NET) <br> Python |
-| **Bancos de Dados** | SQL Server <br> PostgreSQL <br> MySQL |
-| **Conceitos & Arquitetura** | Microserviços <br> POO (Orientação a Objetos) <br> APIs REST |
-| **Ferramentas de Controle** | Git <br> GitHub |
-
-
-
-
+| **Linguagens de Programação** | `C# (.NET)` &nbsp; `Python` |
+| **Bancos de Dados** | `SQL Server` &nbsp; `PostgreSQL` &nbsp; `MySQL` |
+| **Conceitos & Arquitetura** | `Microserviços` &nbsp; `POO` &nbsp; `APIs REST` |
+| **Ferramentas de Controle** | `Git` &nbsp; `GitHub` |
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-*   **[ecommerce-microservices](https://github.com/Brunogonsantos/ecommerce-microservices)**
-    *   *Descrição:* Ecossistema completo de e-commerce desenvolvido em C#, aplicando conceitos modernos de arquitetura de microserviços e comunicação assíncrona.
-    *   *Tecnologias:* C#, .NET, SQL.
-
-*   **[CursoPython](https://github.com/Brunogonsantos/CursoPython)**
-    *   *Descrição:* Repositório dedicado à consolidação de conceitos avançados em Python, focado em lógica estruturada, algoritmos e automações.
-    *   *Tecnologias:* Python.
+* **[ecommerce-microservices](https://github.com/Brunogonsantos/ecommerce-microservices)**
+  * *Descrição:* Ecossistema completo de e-commerce desenvolvido em C#, aplicando conceitos modernos de arquitetura de microserviços e comunicação assíncrona.
+  * *Tecnologias:* C#, .NET, SQL Server.
+* **[CursoPython](https://github.com/Brunogonsantos/CursoPython)**
+  * *Descrição:* Repositório dedicado à consolidação de conceitos avançados em Python, focado em lógica estruturada, algoritmos e automações.
+  * *Tecnologias:* Python.
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-
-- **LinkedIn:** *[www.linkedin.com/in/devbrunogonçalves]*
-- **E-mail:** *[brunogonsantos@hotmail.com]*
+* 👔 **LinkedIn:** [in/devbrunogonçalves](https://linkedin.com)
+* ✉️ **E-mail:** [brunogonsantos@hotmail.com](mailto:brunogonsantos@hotmail.com)
 
