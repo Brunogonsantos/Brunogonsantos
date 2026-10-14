@@ -27,7 +27,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em desenvolvi
 * 📦 **[ecommerce-microservices](https://github.com/Brunogonsantos/ecommerce-microservices)**
   * *Descrição:* Ecossistema completo de e-commerce desenvolvido em C#, aplicando conceitos modernos de arquitetura de microserviços e comunicação assíncrona.
   * *Tecnologias:* `C#` • `.NET` • `SQL Server` • `Microserviços`
-* 🐍 **[CursoPython](https://github.com)**
+* 🐍 **[CursoPython](https://github.com/Brunogonsantos/CursoPython)**
   * *Descrição:* Repositório dedicado à consolidação de conceitos avançados em Python, focado em lógica estruturada, algoritmos e automações.
   * *Tecnologias:* `Python`
 
