@@ -1,3 +1,5 @@
+<div translate="no">
+
 # Olá, sou Bruno Gonçalves! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em desenvolvimento de software, arquitetura de sistemas e soluções eficientes. Seja bem-vindo ao meu perfil!
@@ -42,3 +44,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em desenvolvi
 * 👔 **LinkedIn:** [in/devbrunogonçalves](https://linkedin.com)
 * ✉️ **E-mail:** [brunogonsantos@hotmail.com](mailto:brunogonsantos@hotmail.com)
 
+</div>
